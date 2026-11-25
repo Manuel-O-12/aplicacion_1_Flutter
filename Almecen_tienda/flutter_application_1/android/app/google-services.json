@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44516937498",
+    "project_id": "almacenapp-d5b82",
+    "storage_bucket": "almacenapp-d5b82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44516937498:android:c191133f527524859266a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VCHAHFxfNf5pGzErkp6s8U7gSLWnDZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
